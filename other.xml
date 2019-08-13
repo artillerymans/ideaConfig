@@ -1,0 +1,60 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 17 Platform" />
+    <property name="ColorChooser.RecentColors" value="255-255-255-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6091298" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="sc&#10;par" />
+    <property name="LOG_FILTER_HISTORY" value="FeraceProtocols&#10;qryPoliceAttrByVo&#10;HomeActivity&#10;onResultSuccess: s =&#10;RemoteRestartReceiver" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Java" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.hoinnet" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.7741287" />
+    <property name="TrendingPluginsSearchHistory" value="codota&#10;mark&#10;marker&#10;maker&#10;con" />
+    <property name="android-component-compatibility-check" value="1565402227015" />
+    <property name="android.apk.viewer" value="0.68802696" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="codota_token" value="3USdujIcFIoV4fa48poMi7/eb6bKfNqzZV9H2oFqJkQeeSDGYzDLjY3nH+i7AMScsaxy8PeS+FCkJkg1WIVFJVYVE8oE6+lc" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/JeepProject/watchface_JeepList/WatchFaceSDK&#10;/home/zzw/Code/pinAnProjects&#10;/home/zzw/Code/pinAnProjects/watchface_JeepList&#10;/home/zzw/Code/HoinnetPrjects/watchface_List&#10;/home/zzw/Code/JeepProject/watchface_JeepList&#10;/home/zzw/Downloads/BaiduMap_AndroidSDK_v5.4.4_Sample/BaiduMapsApiASDemo&#10;/home/zzw/Code/MobileProjects/watchsettings&#10;/home/zzw/Code/MaritimePoliceProjects/Launcher-maritimePolice&#10;/home/zzw/Code/XhProject/JeepWatchs/app/hoinnet.keystore&#10;/home/zzw/Code/XhProject/Feraceupload/app/debug.keystore&#10;/home/zzw/Code/XhProject/JeepWatchs&#10;/home/zzw/Code/XhProject/SosFind/app/src/main/res/drawable/ic_national_emblem.svg&#10;/home/zzw/FlycoTablayout&#10;/home/zzw/Code/XhProject/SosFind/app/hoinnet.keystore&#10;/home/zzw/Code/XhProject/Launcher-szxh/app/hoinnet.keystore&#10;/home/zzw/Code/HoinnetPrjects/Ferace2&#10;/home/zzw/Code/DemoProjects/CustomPopwindow-master&#10;/home/zzw/Code/DemoProjects/BaseRecyclerViewAdapterHelper/library&#10;/home/zzw/Code/DemoProjects/IndexListView&#10;/home/zzw/Code/DemoProjects/BaseRecyclerViewAdapterHelper&#10;/home/zzw/Code/DemoProjects/AndroidUtilCode&#10;/home/zzw/Code/DemoProjects/AndroidUtilCode/utilcode&#10;/home/zzw/Code/MobileProjects/BleEsimService/app/hoinnet.keystore&#10;/home/zzw/Code/XhProject/Feraceupload&#10;/home/zzw/Code/XhProject/Launcher-szxh&#10;/home/zzw/Code/XhProject/SosFind/app/sos.keystore&#10;/home/zzw/Code/DemoProjects/QMUI_Android&#10;/home/zzw/Code/DemoProjects/RxTool&#10;/home/zzw/Code/XhProject&#10;/home/zzw/Code/MobileProjects/watchface_MobileList" />
+    <property name="file.gist.reindex.count" value="13912" />
+    <property name="find.popup.splitter" value="0.24045262" />
+    <property name="installed.kotlin.plugin.version" value="1.3.31-release-Studio3.4-1" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.31-release-Studio3.4-1:2019-04-25" />
+    <property name="last.imported.location" value="$USER_HOME$/Code/DemoProjects/BaseRecyclerViewAdapterHelper/library" />
+    <property name="lastTip" value="41" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+  </component>
+</application>
