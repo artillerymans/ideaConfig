@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse_zhiwei" parent="Eclipse">
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
