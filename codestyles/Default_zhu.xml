@@ -34,6 +34,7 @@
         <emptyLine />
       </value>
     </option>
+    <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
   </JavaCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
