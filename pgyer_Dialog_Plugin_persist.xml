@@ -1,9 +1,5 @@
 <application>
   <component name="PgyASPluginKeysManager">
     <TeamManager />
-    <uKey>796d26d54aba00e6bf4ed8b4ff3ae775</uKey>
-    <ApiKey>ba798d6fd8400c6ca60515f1ed588086</ApiKey>
-    <ApkFilePath>$USER_HOME$/Code/JeepProject/Launcher-jeep/app/build/outputs/apk/debug/Launcher.apk</ApkFilePath>
-    <name>Launcher-szxh</name>
   </component>
 </application>
