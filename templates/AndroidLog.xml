@@ -1,5 +1,5 @@
 <templateSet group="AndroidLog">
-  <template name="logdd" value="com.blankj.utilcode.util.LogUtils.d(TAG, &quot;$METHOD_NAME$:$content$&quot;);" description="LogUtils.d(TAG,String)" toReformat="true" toShortenFQNames="true">
+  <template name="logdd" value="com.blankj.utilcode.util.LogUtils.d(&quot;$METHOD_NAME$:$content$&quot;);" description="LogUtils.d(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
