@@ -1,0 +1,9 @@
+<templateSet group="AndroidLog">
+  <template name="logdd" value="com.blankj.utilcode.util.LogUtils.d(&quot;$METHOD_NAME$:$content$&quot;);" description="LogUtils.d(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
