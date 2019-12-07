@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Launcher-mobile'" />
-    <option name="defaultScopeName" value="Project 'Launcher-mobile'" />
-    <option name="SEARCH_SCOPE" value="Project 'Launcher-mobile'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
